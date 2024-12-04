@@ -1,0 +1,1 @@
+/// <reference path="./28_Namespace.ts"/>
